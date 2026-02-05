@@ -2,6 +2,12 @@
 name: prompt-evaluator
 description: |
   Comprehensive evaluation framework for system prompts and AI assistant prompts.
+---
+
+# Prompt Evaluator
+
+A comprehensive framework for evaluating, comparing, and debugging system prompts for AI assistants.
+
   
   CAPABILITIES:
   1. Single prompt scoring: Evaluate a prompt across 15 dimensions with detailed scores, issues, and specific fix recommendations
@@ -18,11 +24,7 @@ description: |
   - Keywords: prompt evaluation, prompt scoring, prompt comparison, prompt analysis, prompt review
   
   OUTPUT: Structured evaluation report with scores, issues, fixes, and priority recommendations.
----
 
-# Prompt Evaluator
-
-A comprehensive framework for evaluating, comparing, and debugging system prompts for AI assistants.
 
 ## Quick Start
 
